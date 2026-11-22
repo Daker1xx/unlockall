@@ -1,0 +1,7 @@
+regions=3952 octets=809762816
+ordre=le
+ascii EquippableSkin   : 292
+ascii ItemTypeID       : 6
+ascii Entitlement      : 206
+ascii VALORANT         : 160
+lectures ok=252896 ko=25 err=299
