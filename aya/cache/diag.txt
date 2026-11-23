@@ -1,6 +1,0 @@
-mode=user regions=68 octets=12656640
-ordre=fg
-ascii EquippableSkin   : 0
-ascii ItemTypeID       : 0
-ascii Entitlement      : 0
-ascii VALORANT         : 0
